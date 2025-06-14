@@ -1,8 +1,14 @@
 # sb_project_config.yaml
 tools:
-  - mythril
-  - slither
-  - manticore
+  - ConFuzzius
+  - Conkas
+  - Manticore
+  - Osiris
+  - Mythril
+  - Oyente
+  - sFuzz
+  - Slither
+  - Smartcheck
 
 files:
   - "cobra-plus-dataset/*.sol"
