@@ -2,7 +2,7 @@ CMD:
 venv\Scripts\activate (once: for installing packages)
 
 
-py .\smartbugs_test_on_cobra_ds.py
+py .\smartbugs_test_on_cobra_dataset.py
 
 
 Required Once:
