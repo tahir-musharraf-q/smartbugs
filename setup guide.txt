@@ -1,11 +1,8 @@
 CMD:
-venv\Scripts\activate
+venv\Scripts\activate (once: for installing packages)
 
 
-
-
-
-
+py .\smartbugs_test_on_cobra_ds.py
 
 
 Required Once:
@@ -13,6 +10,7 @@ Required Once:
 Run Docker desktop
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 python -m venv venv (once)
+venv\Scripts\activat
 
 (for Linux; just in case): pip install wheel; pip install pyyaml colorama requests semantic_version docker py-cpuinfo
 
