@@ -1,0 +1,13 @@
+# sb_project_config.yaml
+tools:
+  - mythril
+  - slither
+  - manticore
+
+files:
+  - "cobra-plus-dataset/*.sol"
+
+processes: 4
+timeout: 600
+mem-limit: 4g
+json: true
