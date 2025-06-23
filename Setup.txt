@@ -1,0 +1,38 @@
+CMD:
+
+cd C:\Users\mf23-4\Desktop\Smartbugs
+venv\Scripts\activate
+py .\smartbugs_test_on_cobra_dataset.py
+
+
+
+
+Pre-process files:
+
+rename_solc_to_sol.py ---> to rename files
+filter_contracts.py ---> remove any files from 'contract_source_code_output' 
+folder which are not presnt in the 'cobra_testSet.txt' ---> this file is from cobra+/cobra-plus-7.ipynb
+
+
+
+
+
+Required Once:
+
+Run Docker desktop
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+python -m venv venv (once)
+venv\Scripts\activate
+
+
+
+(for Linux; just in case): pip install wheel; pip install pyyaml colorama requests semantic_version docker py-cpuinfo
+
+(windows) pip install wheel && pip install pyyaml colorama requests semantic_version docker py-cpuinfo
+
+
+Added Files:
+
+sb_project_config.yaml for defaults 
+
+

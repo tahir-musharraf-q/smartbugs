@@ -5,6 +5,24 @@ from datetime import datetime
 
 LOG_FILE = "analysis_failures.log"
 
+def filter_files_with_pragma(file_list):
+    valid_files = []
+    for path in file_list:
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read(200)  # Only check top of file
+                if "pragma solidity" in content:
+                    valid_files.append(path)
+        except Exception as e:
+            print(f"Skipped {path}: {e}")
+    return valid_files
+
+# Filter .sol files in your target folders
+import glob
+all_files = glob.glob("contracts_source_code_output/**/*.sol", recursive=True)
+filtered_files = filter_files_with_pragma(all_files)
+
+
 def log_error(message):
     """Append error messages to a log file with timestamp."""
     with open(LOG_FILE, "a") as f:
@@ -25,11 +43,12 @@ if __name__ == "__main__":
             "slither",
             "smartcheck"
         ],
-        "files": ["contracts_source_code_output/**/*.sol"],
+        "files": filtered_files,
         "json": True,
-        "overwrite": True,
-        "results": "results/$TOOL/$FILENAME"
-        # "quiet": True
+        # "overwrite": False, # start fresh each time
+        "results": "results/$TOOL/$FILENAME",
+        # "quiet": True,
+        "timeout": 300 # 5 minutes timeout for each file
     })
 
     try:

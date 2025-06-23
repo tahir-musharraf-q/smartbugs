@@ -1,0 +1,1241 @@
+[2025-06-14 11:13:10] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\test\0x001fbf99b635bbce9181c6e5c3e2eee0efafc560.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x007da60ea2a53c09f5cdb1b5339d8cebe4409744.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x034d775615d50d870d742caa1e539fc8d97955c2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x04167057ab756d5f87c6f4d21fbef4cff0b3b00a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x047123122015491df4064ec443602daeffa8cac6.sol: no compiler found that matches pragma solidity 0.4.4;
+contracts_source_code_output\test\0x0582d0453890e7adb2114125fc188ecb21d8f862.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x05dab93a76f33fdb225e0a05cafbdd41612b88b6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x076315d83a49c9feffcc161dbb3de35fb5341126.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x0a60c278bd216523b52188a31d52ac62a41bfca6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x0c63bf5f9c1b31bd98eb2995e8ab5ba33fe31d22.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x0e98430F38AADE4FB4EcECeeADAF122D1D69d57A.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x115B2e7BcCa6fE01f2B54d5F2630d27cf5A5990D.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x115c2a882180ee2d3ddc1dea06b2dc9c1802f0fb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x1215Ff37F2212592De54840937cc101C9E0e56b4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x1460a58096d80a50a2f1f956dda497611fa4f165.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x14903AD104dA65729B99bbD64c47FB7d75f8548A.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x19c630bb6d3e7c2cfe77e2a73627c9bee2db8ac5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x1a67a1c78f3b4660eef30780690cbe8b6be51f36.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x1eb754b8355d3185a7429109bde75e473434b26b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x1f24dbc4140d74eec3d15644f5e28da66960dab9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x22390f429134870a01c7635827aef91c4af1a93f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x24391869e7d7ae4a410d613c17396b6ece227f54.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x285e24c62b716a4d08a903dcfe1e9156bf9069e7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2Aa1953bc1213935Eb3ceEF04DE00428C6C7B808.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2b84aad550e5550eebc9bc76184b031adcecfb06.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2c4bcbbaddbf1561a34c90338cd13a8028b5000e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2d19edb57cae5cdee79a3e198006698b1f66112a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2d59571c904a99186e90a8adc1ee0ca116daee6d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x2eeaa7e42686b659e3fcb509c6b0ff54963b53df.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3148e680b34f007156e624256986d8ba59ee82ee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x323a3e1693e7a0959f65972f3bf2dfcb93239dfe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x354605ccf304d1b0f908a0f582ecddaba2d883a2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x354e88fa4836ada1d8351ce208d25c5dabce2697.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x35b59527647cff6be6dfca8c9519feb77dc575ea.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x366edc8b72a1b28ef61ef7e0cc972214ed14637c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x367105ad5504c23f5d7975abe2092d1d9b932b96.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x367b9e7d0364cf8aa8fec906dda56faf41292db7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x383049552782cB96c78c8bE3EE69e4F79c9F8a1e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3930d927a9922fd880b52be553227526dc7f4f8a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3955573a7c46246d59727d50c74a6aa60ce6a722.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3b07ad8bd2942e4f2846e288df326ba238afb34f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3b6fd94921110ba497a0c754819fb7e647036633.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3bab34ac9de2670b05b41df314a6c50d4ef3a05a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3d1631c39bfdcc9934d4946bebbfdf67614f93ee.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\test\0x3f2fe193c7652c7670c75037c027aa536b5659ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x3f58706232271f4d45e4865230002d710dd750b4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x403e6984a7da52516dbc6adeefe46309a960443d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x434fcee6050c178812a581bd916d2d48b3200936.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x4a95b918bff1fd2ee9f035af2a6adbf3f16b2100.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x4b7c01bf0d659b91a071dc3f66af8cfea3a1f373.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x5245FC0BAee7c7ACcb8f46451599E62B5207Cc27.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x528afba0946fcd953345824228ac1136acaf310b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x550aa91c00c7b0a193ce52ac982d6a54b24439ee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x59bde7bdb62caba26d813294e1cea00a5f977d75.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x5F2E8fb8675e8752061bE58238ebE0a4De9F6DFb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x616085c0b50e450a084a2c3871d0297cc409b38b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x62642035b273f48536d9413a65743ec32a3ad01a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x62f6c1c39edf9f2b5f3d18058713b991761c10a0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x6311fc2152379d874bce0a9b411daf1c96397dd0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x6542b00f0ccc46e2cc635e8fb3c89afa7290a6b2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x65c8890f04848d247bc6eE83862Df9d06F5aFee1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x6652fa201b6bbbc0b5b0ad3f5702b2b9849cc830.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x68E401326A50b6BbD0fB57C39c4D42BFF6cDaCbD.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x6e5b1449940de10768db7708d200922b81e37864.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x734a3a2bc6d16360d2216e497309d1783e9c8a78.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x744E4Dd8C50c8c87b0D56F9f1af4bf5eD01360a5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x768f524a971109d429fd1d3190255b651095cd15.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x77562e7c5cedf35d3264fd13469b9e9d9fee90cc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7a33017e1b81781c95db0716c3609fd920d94cf7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7ad4db952a95e7f2bf9cd75c4b101d459c15a0d8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7c2616879eae8226dcd4bb90b5de65a361bf667d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7d116f0d7e566017daabbc7a9d7a669e0376b6a8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7e712360a438127def4f900c53ea60f137f15742.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x7f70fdF09E5BF9808fF3dFaAE1c433CE758234C5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x82919ca4de7a039e7d40d8eb75b784eb80ba638a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x829a4ca1303383f1082b6b1fb937116e4b3b5605.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x88303FeD02b31dB9C7a9eafB711dA9eF4A03e5D3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x8dafc34bb3e6c71ead666c8783158222078595fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x8efe2c82bd31b67fa262c0d364773629f6ea828a.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\test\0x8f9ee4f2a83670b0c775157e12a43e068d191218.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x90a4eff900b2b981e4e2809fed0761f024cae9c0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x92cdfb3d2c9a26e32e158d634092fe1fed70aa33.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x9353e4db16f4fc90bdc024e1cfea07b4a68c1243.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x961eee551d0fe5ff8b88db5441875564ac967f09.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\test\0x9654929662bce8f444a7aafa9fa50d2682bc5205.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x973c2178b09225d1de3ab037d40b3f24af696255.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x989810957ee7840f1729a2bfd0f23e59f770b6e1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x98f83914a16ed035a0117e7bfd9b8bd7c0511579.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x99E71Af1d19bC3f1E67D67696354C0df218441bc.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\test\0x9b3554e6fc4f81531f6d43b611258bd1058ef6d5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x9d11c3953db2801be070a73f2997d3885fa9a5f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x9d1363f830e039b75e08f0ea1a96f61a8e3c73f6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0x9d9ff491c7cf1b6e3b1d0ea496016af11a61433d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xA3643A6092ab43F318eb4BAc762f3F9Fe7b66285.sol: no compiler found that matches pragma solidity >=0.5.0 >=0.6.7 >=0.6.7 <0.7.0;
+contracts_source_code_output\test\0xA41dE427F9Ce40fF69B1A46efa9bd76ADE2fFd4e.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\test\0xA6d4326E010AF4539260976Eafe48B519c503415.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\test\0xB62e20Cf2305D1e2000970539a758d86EB7a7178.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xD9467094011fc724B37b84216b1A9d980E1196e6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xD97677Cdc4e5797fE68cf5B935C156399c2370e0.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\test\0xDBF5fD4280Fe94E6534285d3EF6B20abD699398a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xDa830AfA460526071D3D149E898feAd664F0A4bB.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xE5FDaE082F6E22f25f0382C56cb3c856a803c9dD.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\test\0xa27df4833649147a0fdd47d04d7d20ae2caff77a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa2d85959147b88b9614e4947767ac69380813ac4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa542cf9c5451d5099c78bde4c6d6b6df7e2a2db5.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\test\0xa5fd9078ab76f6f56b5f69435f0f008e5a7bddc7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa73cca3d4a304c3a42b0be4f8abfcf4944ac0a5f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa98b226e71b309421ee9c69687eaf8ba6cb286d9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa9d7fa649daf73678bf6cf88aee2cc7c9b0c8371.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xa9eb03f3a499e274170c378f958e4a0cbea2c7ef.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xaba37acf456c6a755d68727737369d3bffed259c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xac293ff9c45061c50ad3837a34848f17601dc43f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xac367cb36512F8fe9bD4cF0165Fa26E0F32bbf24.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\test\0xac3ee03753399057e7ff29201f6fa4d5df078ab9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xad8ba53d44467cc2bf6ab0fb581af3fc1f950147.sol: no compiler found that matches pragma solidity 0.4 .25;
+contracts_source_code_output\test\0xadd9b56a2be55b6310ca4d9412381863c6d74bc9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb097c7047ed9ced883f694d28459585d193f0817.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb0fc62c580f4184df953322eb4dcb29db9ee6a6c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb1592fc67b66f4af8e65c21de8d9e00ff90a394f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb1afeedd16dd44c4ac69bd486290f6d735f30684.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb2f611a04f696a88753264342299b6f9c8396f36.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb333780a39e55940ce4a5d564fe93ec096ebf1fd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb3868232b7ec9aad42cb3a72adbe3de594bdcb17.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\test\0xb45eee752c735e5603b765766197191679f815b3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb5d43c68e32665fe46ee96d572f4740ff1627e2c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb70ae1b7a95c3443af3c7f18b7f4e08cda58bbe7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb8a9cd26ebb5468f65cabe94cda6181c5f75e858.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xb97748fc1e85bedc654bafca55be8ccbe356f466.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xbc548594b0e17adcd1d551ae1ced65c2105d36fa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xbeAAbb6897C4dAC29C93C32613Fc9cb5d6D457e5.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\test\0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc0bfebe0bcaec58f821027d6ae17b7515679ebd0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc0cf1b752100183d521d3143a0f8e75d8a029177.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc169aa542078f044851622e7f5dfa6715631e3fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc26164a7caacb92879cbd188ec3d71e26709249d.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\test\0xc2d058bc04b75f027943f183026d7478ba9c48f5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc393c68c4ea806af0f2432530f34daf4a3f67860.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc4d07ce9196da896347471c26a0352e64a207e3a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc6f8d8c52face008d366bb4579b479c191bfd3fc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc89a436aaf7c63bb80a0cc4af218eb3c0867a93c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xc8f3c85e4ecb00f7242c0509012ed91e78d790b1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xcb80bdbcc720e3525988de75822ef8d192edd052.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xcdfe013bf5eba4627f7bf0d65499a2296d7d6ee4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xd18eab97e2c59fae7642786cfe3d5e83fc9142ee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xd1a35a4d7f5e9d67253c58c9a8ed4ac4772d5e14.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xd1bD63AdB712130524b96EA2984fcd6D1faD0419.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\test\0xd8614d226BFE5bc47ADd64bE66329B165d9B2E3b.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\test\0xd8f6dc7cb895f0e9dfc71556db2a8349dfcf5263.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xdb5db59ab52c30fdba0086ece9668bfdae40c2fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xdc04b7dbcb91e6d6aa0f0bceb337a520e5a3f52e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xdcc68229b0d0Fb7668F3304D88ee9A2738a7B51D.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\test\0xdf03d76ca6333f7dc412081df0c921f2614d2042.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xe006fe964761b866a01524720a74cb1d8b1f4693.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xe106dbb9aeb3860f935f29f2b29826f53ed9f47e.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\test\0xe7c79deb6a9b74f691d5f882b7c588bba5db1a20.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xe989caf07ad870c1f059924fc096b00b5c048bb6.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\test\0xebe9320e07079e54d630c5eac9d7cdbb8f6f5508.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xebf6245689194a6e43096551567827c6726ede0b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xec728d07d2c65ba0488c6401a208e2c33c95ba87.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xee282f939aeb304f2af3441528e7554bac799a7d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xee658666344cc57da9c7d5fd569dba0f19b771a8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xeea3add01f4e5472f87dd5464805b93cea1f760d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xf01b26626550448606de2b6e7eeda1216d9cd239.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xf1eae7b573b5e0cc194b54e391a1cc4dfe611bd0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xf4e8D58b2d7dF2B33A1875e405858278B1Da6618.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xf56aeeba4c9307805513888cfb75eb5883e761a0.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\test\0xfDdD9B2093664411Ec07FAD807A660E3ad9c6ff5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xfa8e05225b64bea2b97897cb15b0a4139264c767.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xfaf42a7b1681bd6b8c5177686205fa9bbfa22fab.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xfcfc9c5ab53bc71c2e79abb9c1af0bc4e2c78f7b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\test\0xfe5b6c2a87A976dCe20130c423C679f4d6044cD7.sol: no compiler found that matches pragma solidity >=0.4.0 >=0.5.0 >=0.6.2 >=0.6.0 <0.7.0 >=0.6.0 <0.8.0 >=0.6.2 <0.7.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0x000000000037d42ab4e2226ce6f44c5dc0cf5b16.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x000003ed2eb44cded8ade31c01dda60da466b2d1.sol: no compiler found that matches pragma solidity ;
+contracts_source_code_output\train\0x0091e27b9ef50427ad431be70dc441f9f6639d78.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x00d39ceeced93c6f8908f83535fb4f9048320b0f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x011b222b3704a223867d5d59f99efa3130582cf3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x012bc399c3e8b75a506c9ff2b7ad413641f33102.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x013183d8e0a14a843aa3bc170a29f959d9614d28.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x01F1D4068fEA6E2fDB859A8eA59B10682B900Ff4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x01d5ca206cbb7a42dd227c9c554b24d3eba2190b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x025cc54e5209b3e68ae0116ccede1a71ec313a87.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x029F049C59A6b56610a34ba01d0d28E26ed407A8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x02caceb4bfc2669156b2eb3b4d590e7ac10a4e73.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x02d1987F90F7A31570E6111C5d506B2e48ee30A2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0306f9a2deae81a5afbc9fc6071380e95882cc14.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x032de41b6677cf4f6a40859d50a7e986e3119284.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x03C513FfbDBdA34b4A66b3052fA5e0E6606e531b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0410ab2e187b8601e86f18d491dc2dd96d6ad828.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x04150b740353f068950d99acbb3ccb7a60c5cfc7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x044205b97c44da18901e636173414aa9304a2f83.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0459ebad0ba09901fda1441ee72e6cb664257f61.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0486cF65A2F2F3A392CBEa398AFB7F5f0B72FF46.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x04a8371d32148c1d28b35a84af105838a0a18bdc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x04b56694074033ebdd0919378f3e25047539bcb8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0561fb9c7c4fd6877cc3e8e51036e7d7bcd8f23a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0574586d9c3741c638998434cea480c67e4aa88f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x06595f97d44c37978cb7d2d38770fe8bf90f76fb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x06c851d5d7c9514135e7398ab2f9c8181b3bb537.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x06d431b5072a621f4fd24df72fc8c4859d86e9e5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x075cC274ed5Dd385Dd996f996b1D45e6889107C1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x07b74ad2872a703183ad7dc42a8125635ce12b32.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x08758503e70b08d3da300ac0a1105fb01489728c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x08a939c024c0a2ea9b39e643cf5484da1dac1410.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09402a1cdf6500f92cfdebce34ecc96ca19dc8ec.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09b5a8284b70ec04cbe47f8affb882d6ef44af9c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09be87473d05d44d2a495855b32d54bc12b1f95f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09d51ce3abb84e297339d5d72192d7ae55bafd31.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09de7e9932926d98298d1ecf50015bbeb9089678.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0a08e6058eaaa847a1adb55b0a69b8469ea5a5b3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0a32167dfa4eada6758d77b7ac27f76e8a723df2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0b4eba744eca4919dab127387862727b97e33b29.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0bc3f57c2faf674561641e983ab1ce7f928bda7c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0bda2ba473d5a4a491b252de032218d17b58c158.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0c5cb6c973775b3e9c34a01ca161d7b7ad2104ee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0c8c546ea09618a23a46849b068081717fc9ef1f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0cb5252ab874b1cb5e249e171af7f7f398ea9939.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0ce20e33ff9fadcf43668fac351b97539e2ac58d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0d131cb33110327921c921d224a65552ab9e3f69.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0e24191da2f58dcf792d0bf5e2b14e2b6a205e36.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0ea548e51e090549a0cde331a5018413333ea3d6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0eeebd67cfae6a9e78433b301fc44c13ba205bf6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0f521be3cd38eb6aa546f8305ee65b62d3018032.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0f73292862b5824909a77289eed9c7e3727fa6ae.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0f90969738c7a3088907c052cb96bd4d184a9fcf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x0fe863d25231ac65a0d6e01a78e771cec1bd4153.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x105b857583346e250fbd04a57ce0e491eb204ba3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1098633D31B6fe64a5964d289F549503E0c7b7F7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x118fda5a755bf970df3687a07301fa873e3b05d1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x11d02e7119cdf769bf887b7c35548ab7f67b3fe0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x11e0d60eff1c70457010150fbf9f6efddb91b5c2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x122264f00aff8edf5d86bac0eb0acd1155e7cdd6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x12345678910f9de260d08f4e179103ce14cfd8eb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x12fcd6463e66974cf7bbc24ffc4d40d6be458283.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x131c693a73f19b7f26935944f89b31fe694504f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x134a2b5b1a1e3f3c3c7cfed71000035a53d4d127.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x13a98f444c2c25e9eb4436b5e17ca6134d9c5769.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x13dfeb3cc4f05229c449c30a9ae4141d7fcadd85.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x140db187d6388a8b0172ce595837a23162fbb5fc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x14db723a05620d3bbe4303f9e566eb2c782e70f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x156978afdb728cc40c8616ef3843eb6a9ba31ddd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x157a4871003f319e03fe5715d591011569f5c167.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x158813d43fA4d02443A2d783F2a3ED0E2bB42a09.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x162d258d7954c70ffc17d658cd7e9756935cafc3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x16643b4deaafa493a07f5b73a5b68f1b1ae1f327.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x16a19f43832292dc41ce7fb500909723b1c3be69.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x16ab1cc80d8c8ec04c66d8868570ad69fe6ccbc5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x16bd300a087b59b32e793481ded742b91ec528e6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x16fe127b402873df889669af5c80a8ada8a9e91f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x17145ce624b34102e615f3a28705fb0d14c111de.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1736aC66fe33030FE27805AF041789ec2Fde9925.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1822572D5cec452d4161965afe0B795161899800.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x188526db9f105ed191a256842b1f4a66785e4803.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x194b067f8f8496f9fa26789ad965e333e89fb07e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x198B1B56e272Ff62FB823f1797Fc6965c9389F2D.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x19df78b61fdf00f5fa35ddc0396a4dec2709cb85.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1E77fbE7bfe9b11c75b90A76f571dca0C6D70a9a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1Fe789BBac5b141bdD795A3Bc5E12Af29dDB4b86.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1a4cd7c4f6ecd5ee2ebc1b50b73a968bb0039ba3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1a64f4b6ac7339468b24789e560c9eb1f9a82cf6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1a85180ce3012e7715b913dd585afdf1a10f3025.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1a8Ee1619397329de9B1161eD59D937744fDcc9d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1b3b37d8c14e41b5c6e9d557b55c6ea2a400b7d1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1b7c21233fd34d2ee328d16a4c46f1a26cd1dbfb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1b8778f620c88efd77e6221a53a5f1b6a771c87d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1bfd8b5bc03f18324ca9d59252927132403a88c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1c478637deb86a26e14659211190104e70fc3091.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1d1af2ba9a9cb472a7d6c2499b6622265822df5d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1d57a4c1d91f617e42d1b103895a673a60631abf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1d9a94f43a7c6e452a45c0039dde717b8f089a5b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1dd13b8981b43e87c536e89ebb7bad91e65eb611.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1e2981e923cf8b23833b7fdaf6b88586dca51b5d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1e8c423b2e8aae409280c696c5acda62f7e6f23c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1f060991e27634cdc449776ed9771e6f8cce6dd0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1f2457f1478311d05c8af2e350aac66f5aff2c34.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1f62a29233efC3EACA72f9BD659A153a88533F76.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x207221c79f803ff6e73a5843915dae6f4b886a38.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x209ddd6b50f748b6eaa25a2793341566492b2526.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x212a05de8cd285164aa8411a666a95ca73cf223a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x224aD51e9fe291Aa98dfBB455ecD88C1476ff4C3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x225caeb53624f5aa71f1b1c2e6345f098235e30d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x229de00c1080f3c602a7b9286a5c8bef5971ecf9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2359ffa8e5b7a7f3d44f4aa9fbe03d061a4b5d0c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x239119c43e3cac84c8a2d45bcba0e46f528e5f77.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x23a9dd26083bd725ac2f4c576bf93b3f812708db.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x247c64d2af86e0eabde83c39d5628a2bb1797481.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x24910113D7378cb8BdCbeaC4596Ec68EfccD684d.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x24969a8aab6ecefbab084f9d2316c55163e78ee8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2496e0f4648dac51ed0a7c121aa43a767d3b6653.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x24bbe008c499d48f5cdf379401219911cc2f5e35.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x25166ec66ae40029589dcca100e598f22fecc8bf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x25e1779f5f2fbdd378ced1a338f6c26aeb3d6ad0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x266fe968ce45fa3373726329ce6104b9ca4a9c66.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x267431bf3d45b80c34869d45a679a4a59eaf2392.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x26c6b1e0bd109d448f128035a98f82c53befa8ca.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2702b94Bc95F00e0D1ce5263718a6c0562bdC979.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x271e0da3cd442cb5790ffa44f7374fe3fac8c594.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x272f42efa78f6f4228b7f8cb540aa02bd9a705e2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x279f9f9b73bfdbe14e4912a6d5f7442ecdf97b37.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x27e08b44ac6fdeb760e03a3c6f155fa382189600.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2808f8d0f349785543f2acfbe4c56c682e60e056.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x280b12a70b48dcccfc263d6ef62e311b50169bdd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2815d3272baE3ebde5D7c128Eea5f4A8da402783.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x285fb869687239ab1a9d21ee212974b291d36fc3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x28f272fb35039753be682dc9a0f416c487c0bc89.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x28fcee4d79b26be99c4e00d8690b6e95a45bd3f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x292ee3b58ce3f007b9ee88605b76033eaa60cbde.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x295469e08e3b0a0b2d1f58b7be8d9966a9b10530.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x29b7062c5f70008cfeeeef282a5dc8cfe2428a5f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2B9CA935106f39Db29aaFcF191439bED66DD0099.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2a0069b033e78119cc5991a206b2edfde928d7d8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2a65846edebc4d8087a4a089e14da44623fe6159.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2ab79c3cde00e868071a7cfa55dbd6c6a47b8a48.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2b57f4fb6eeb68f6e404686f48f813a528ec97ec.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2b5edb5876a37816c505fed23df07aa44b0eba66.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2b817e494d4a8add17df9a0f1b53c95a64ad6023.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2c42672ae36883da889e0f93747be502a59dc7c5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2c8f58663c5b795576846f0069027332bdd9d126.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2c9e0924b023cc9a42bc1e6f20deb7e3ec727d54.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2d0a6b57998298ef725ba001ff1433573814f52c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2d0ea9f9591205a642eb01826ba4fa019eb0efc6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2d3a9fa81b1b7be63d70d8d4c04e3941f802ba6d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2dd963d1dac1493aed5a154051893158ca0d105e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2e0b77cd408989a8f09e22d2c832be793f167aae.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2ea4c537c833595185f4f35a77a5c2d3748b2b0d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2ef6bd8bba5fdc154afc723b5711f20510b49ec8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2f210a16ece04bf15c8ac31474fbaad5add2b915.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2fa48a4d3833de5e4b49f95b235842688146bfc2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x2ffc536220d4e22571b9abe5ce79ec00fcf2024b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3002957F433cD3d6403CAADae3A4887d46a20b89.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x305505c8c9d51602f3ebe0ce984ab2aeb0df3172.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x30a1b6ce07122e5b0ea41850b0d7d2c59e4218e1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x30b7fdd323ba927cfa6e14158a644471b1b51ed4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x31223568677dbdf6573f36eff30b6c6c4b02dfd8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x31A23b28D955F5ac4E7499670c25C4C13D910882.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3252dc7f3233a4c9b89bf1fd7586ae639d4e83f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3276c0707c0fdac213cac54e5b805664aae403d9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x32f132f4f2f789f1d9dc38a1900ae03ed9ce8cae.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x330abb1f593aa53478ddf5b4fe1dacb55e731899.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3323075b8d3c471631a004ccc5dad0eeabc5b4d1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3329a13218b9b311a7ee468dfe100f72c08ee2da.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3366b58c275be92949d4ea713105fe6b00f3bcf5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3380f0d42bf90489c516dcd3b38ca73a029c3daa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x33a2cced2e87ae47e463eac0fffe08a2b3b7dfdd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x341f6221300e8a65d5ffa7a71f0e9b08bae1bf9d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x343811cdb5228304dd895d3621511a2d331c9a47.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x34911761cefc46922ab094c82c7ae8ad26ce2a67.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x35091621797cfdb1728de26057fe3b4a0cbf636d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x353dcf5e77d964278e790664eed5d8da83cf83df.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x35b335e8f241607316e73efae11d670a059042e6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x36e6b83Bfb960f64218b82858ECD89a8351538fB.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3761b06a8eac2ed383ae9e6f42ce08d1b925982c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x379746b2bd85bb837d44f5f9299c308f33ed214a.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x38165bfeFc52C5BB948228Bc51622A3eC48Be180.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x382e76e1a4f5d3b1fcf6593ba323a8e2f1c42f36.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x38c99e98171e70ba535eab1cfc91dcadaeb6f3e4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x39001085d5f91ac4086c309eec3d9d68f969cd44.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x39163b75a331ae17068f3590d21fe90886a0a2ca.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x3916c7c3f9e16014edef882d77c73e7836dc6e32.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x396a19821130038b9874821224e427c6ac64d360.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x39c7e3385a4bf9fef821111367a9dca35f301297.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3B7c81daa0F7C897b3e09352E1Ca2fBE93Ac234D.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3Baab03C225eB9033FC6B73C16D310D56Afa922F.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x3F428DEEF40AA50d18ACe8Ec44Ff47c496D3EF80.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3a933b622b82b5d6b2f27fa5a9be539747e8f92d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3b1cd0a62286bd250439fa374f83ba7bebb67f6a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3becba56f35eea87ab3f6e299d431c7dee90405f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3caf82e500dc104b370b86ef302bf66f8682bcae.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3cce4e3c32b6fda2a582cd01c8c711b09e0167eb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3d25683efc7c2b55a9d5b1f502b003b2d03c0c79.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3f375722c285bdc0e4be3f7f55d8ae29fe98c9a1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3f45d3b92976b02c4ce587df68b9c7943ff7efc3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3f6d989474e09f381b1da0773d0c7c096e93ed53.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3fc2af38448a082de44f5e1eff753e464023e0bb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x402958173d273cFb6FEa43c5b55fc53160Cf4eCd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x403a4f5aeb868ae457f3526dabef4dce48c8857f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x41838203e938378c21f7031e4c0bc2d1c3fc2aec.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x41C884CC6847a95CfFf4EaC251173ea72C3c5eFB.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x41b8d6336bdab8991ad1c48e3579d0693db17e79.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x41bd2dac002b683de9f69c4961ee3beb39590639.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x41d3a6aba32a4fc0955fea08ab2629601f99c3fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4230fe2b3d6411f8c32f3032585de9aedf067e2f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x428be91cb9a9093dfec1db9e85a6a04ac11dae5e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4319f9130848544afB97e92cb3Ea9fdb4b0A0B2a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4384ba6cc1212faa0d3d2e95c4a3e1968fbb0c1c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x43c9b7b7ce699ac2c1d3aad3b5a78274a0f9c86d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x43f5cc633dc1ac17acac2add3d3d5f2d9cfcdf22.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x442c7b3b561ed498d2c174acb4453d5d984ed6a0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x44b796f67796c9b22a581d83047df33b9270d5bc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x44d2ff4a96ba416554951f28d239cad0abd2800d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x451f07ee87b2b2a6f080f5fb565f307f9cdfe461.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4594a218d3149743758b08574f1f532cb790e268.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x46144686cff703f8c85ce5d5dce6510438f5df9b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4679Ea96F15a4742274dc72e1a58E01AF333D302.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x47328ee8d5918db62c9074935ad2f6ae343f3cb1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x47a55f5218e306a0814523671e40d504ee20d71a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x47c171ce16c1c06aae6e785ba3c518c42235da0f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4800276d5a88a46af6718b2479cbfb0868f81137.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4839e3de8737769e0f93f176d157dca5e48b7662.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4869b2a40290c1c841a9992c37fd83a8b08f836e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x488fb41f8d05453d9b9a07dfcb559f5461b8734f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x48a88e5680d8529796e0add6dcac4b852d65c226.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x48df12c7b523800ecc49ccdf07827ed4d16c7e0c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4944350A445A4E37C2fCB73a4ab2a152a46A17A3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4B6572304b247579Ed479b590415DB50d32aEE3c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4D17082974C4A37eC13002998934A30818A4A9B2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4F9845130168743Cb8f602FEFE82d2bcB6B9FEe9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4a128BeB9892142F131A6b3De4B31067C357A6d7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4a6355327b87527664a5cee0a61bdb568585cdd5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4a9f62cc62ec245692c5d51d8697f96e7d865832.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4b2b60175b6e070e456816fda2b01a72343d66ca.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4b57471c5cf63b747e111bf9bd6f79e8aa6996f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4bb3ff088a9bac1e0c55a2916b1a97f460a6266d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4d08b522bb957ec60dc918baccfdca3d7bacec56.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4d48c5ee6e2db2f73501d267b231f7bf7dfa9377.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4dccb5eb88acaa7992f709d141bc84ec99c8fabc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4e7e50127fca0c7401161e882dd9c8cfad47fc59.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4ed568d1b04c5bb1a5337fb96067ceaac8cc0e61.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x4fbe2d801c0fef1db1bc4f74f46a785f74d5e2a6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x503f9794d6a6bb0df8fbb19a2b3e2aeab35339ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x50FBe8a6e0dEEd2dFa7821644353de11A6E874e4.sol: no compiler found that matches pragma solidity 0.4.10;
+contracts_source_code_output\train\0x50b5501a4A1B1f89504dB0a75deF5f1060A98eA6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5221a48918dc5f3343646b593a6af0db829d364d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x52ce87390ce6f811fb42997bccffca561fb98de4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x52e3e69455d32641056237b19f649e9e5BB12668.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x53144559C0d4a3304e2DD9dAfBD685247429216d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x53250a6fb553b46491a83ae742ef6db86b71452f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x533147374daf35dc347a9ff02bfbea0c7f0728f6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x537b46955c0c2478a1877bf6d57556bf901bd920.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x53a9694a87afd4205296554385f7ef59baaf1843.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x53eb3e1e02c8eb8d185a074520bd52ece09f7a43.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x544df5939c7b5014ac8c366b5a658ca575073b8d.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x547d6d8481631d5839d2cc768874e012c494f1b2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5512014efa6cd57764fa743756f7a6ce3358cc83.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x55394c293698ca791b680f5e2c5c5671784729fc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x55ef8cdfa91435a97df5e5276c8fca873f5c414a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x55f44e8b16651a7c5ea1ffcc54749336ffc17e3a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x560cb7149ce753d2798238067b8165e429b207d0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5638bf5c73d8aa7f7926954f7415e52230efe9bd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x56a9a9b7de3f4a6ffe1f61319aa33b49ede13590.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x56cdc995604e6fea81052b941f345a19df749a67.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5742FB66A43a98F97AA6D0786acc77BB7f8Ee1df.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x574f84108a98c575794f75483d801d1d5dc861a5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5773f46912cf938d9ec86fbd7080846c2933bdbc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x579b17669acca7a9396495e867d2afe8ff4423a6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5847ad74b0cfa928ef1a0aba9098926527ce003f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x588d35ab444fdef6b0107f472e61327d65ba7058.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x589661E796dB52bFE043314200C1d378d1d046EC.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x589b16b1438fd65531af51d660583d46e33d0277.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x58c69ed6cd6887c0225d1fccecc055127843c69b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x58dc0cd23995e2bf2e77c3182c6cb186d375fe81.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x58fe135d638fcad80e5e233cd799f6e190e7b6c6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5A26EB3508DDC071ebcC8fE59BE60D2198a27238.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5a43865ddf8cd1001836643748bfc3089a692e32.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5a5e36b8269690484c094c1ad0ca1df9a9015d78.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5aa0ce36c265f222a59e51340b289bcd6b1d4839.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5b0a2ade105dcea75cfb0f9785d17bf5167a7493.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5b642a698d864eeeda0fa9370cf325b029055614.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5b8af3d85bcd7fc86f98572c0b4a21c5919db196.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5ba115647d57e6c9f30dcbd1b5359cb5cad72f7f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5bab190db25d67042faf39b06da39b545efd9211.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5c3095c53743b8857d6e1d107e5014cdc7b44efc.sol: no compiler found that matches pragma solidity 0.4.4;
+contracts_source_code_output\train\0x5c8118fc0237697422ced89a448dce2c8e34b4ef.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5c8266fbf78977e8b3c3fcc96cdd3cc21133ff9e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5c91f74245eb3d12fe558778b8ccaf4a8429a503.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5cda279ebae1b34b044698df55d55dae88caf641.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5d0a68ff0aae951be167dac58ed3d3937f3f68fa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5d0f36b3368fbe59f9dcaf4c7cd8721e9114c9f5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5d0f54d00a928cebaba4e60eaad83ac1befdee43.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5d2dad2eda8a186cfc45fb29411c32a32862d961.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5d77bcaed8a64551f17d1762abdf5f02463f3ae6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5da2bcc6a5215b905e81f9ef7de28d0801853345.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5dc4538ce872684d0cfc178a573767d157c7ddf4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5e1cdd970e60dce16ced2645f5fb71cfd22080cf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5e273027dc03b9e6c45c418661e57d705e7aeb66.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5e72420abd8f574326f1da7847e09931fb6c080f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5eab2738cbee4ff420d5ebeec357bdb77b51e557.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5f25045b6860d9490aa7ea06e3102bccc561b593.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5f354024369f597fc0c57b196627c2341088baaa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5fb2f392772a6cb5ac423ceb587b62898c06c8cf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5ff998e75513f54385e2e7946738dfab90d0b71e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x60c9d48ad85f32afdeceedc1096a2901f2f5a89d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x616622527ecb889bd144cdee266126fda1e3d005.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x61a8bd67e7efafa01d97223a25a0ea81a91b91fb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x625174f25b24e8a72294270553d6edacb2fb9128.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x62585added65faa5de66cf0b7fd2374eed47589f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x62d15757de645ffeb37813e1187965e57c751839.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x62ec022aca1fc3874295bad446915bd349d64ebc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x637F98654cC147C263ae740455d350D0339b19F5.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x63a589c95b6bbb85b859d913cfe46005b98d716a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x63fe74094eb49c1fe78eeaa40c968ede758ba26f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x648aa9944f8b8f03946d33f547c72895c9117aab.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x648e075634c8e6cedcbcc33624c7db6c708ad2f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x64e213e947d142e3fca296c95984b0621bc827f9.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x6563189c039f793372642f2a795e851da1091da5.sol: no compiler found that matches pragma solidity 0.4.4;
+contracts_source_code_output\train\0x65fd45fa7d48c889df9c5ec093155817a854438b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x662bd4ee8f90edf7f41834fc2e53307ad2b8d96e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x664f257691876369c98c6021ab5f0afc99d31c0d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x669a994932a5b18c0e0516b0773b11df176a9169.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x66e2c30609e9661f52e5d46e1f0f2e6955fda71e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x66e856506352fd8c651da6bc8e109f273d9f08c4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x67609c47883855802ba5a71b5e669b1c8af33362.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x67635d92fe525dbb4179614fc46b0ec161dae925.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x67a9099f0008c35c61c00042cd9fb03684451097.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x686043eb03bd2be88def66f95f3d49cb5dc9b401.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x688909b9d2cfdf2efbbd83f61b83424f8e44d598.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x688ae03924b0dc6bf2f7ac665ca6b00bf885b278.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x68b4d1e81e9e3D1845d4C6ff9e4f021D3867A3e9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x68c1554ee399e0e3a8be0538d2497142befaa13f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x68c75bdedcc034450451d3f315e904e94d7dd4df.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x68d1ea8f6a49ad64c11a351dc07928bd5fc2347a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x68e38da087c9b85e2d7f088394f0cde445e66024.sol: no compiler found that matches pragma solidity 0.4.4;
+contracts_source_code_output\train\0x6909e454158663496891e711499e26848213487e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x69bc8ce0ca03d6874f3a84732b5dea5ed5b8a6a3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6BF4AC662F183f3bA1960bd6D6691b7613589D23.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6a25216f75d7ee83d06e5fc6b96bcd52233bc69b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6a7f97a3ecb224988534c1c8cca7422dd56215af.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x6bbbea61f293befef8e6d540bc1636ef54e3a82d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6c716bDB4289283e0ad1926c47B54412Bd2C257B.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6c8fbb97a832aeacaee0c4a8695ab52ac443be06.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6c8fbbf8e079246a92e760d440793f2f864a26b3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6c9873e811083bf939253d2a86839d72957272f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6ca0b0bdf42389c197aed000854c1a99c2c740d4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6d59a0c847ae54e5d58cc24fa1de972cae3e1d68.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6d9d10d1861973da96f6d526cfb4e0badbf61a3e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6da3095a47d813a13860402638d362bdb9375f6b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6de8f49a47f4cdcf7cb69cafb1b6a74a4f38d113.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6e018f4051b4d84e069c902326aca39c992be52d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6e02a04879fc1699d14fa94080652b2b797dcd7f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6eb38350abf2fbaae1a5c0beb47b2aee8ed0586a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6ec1d2c22e48acdc8d174b9507ad1523eb42f77c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6f91e584f4c150951386b133e21aa769c8b7d060.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6fa316ef7ccf32ce7e618548f105d8f6d40ab856.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6fd0305217f176c128a9e236d7cb3e459892a290.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6fde494ed3d57ef6fd1853a0081e612ae7ed03ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7034e8a61e440c6fbec11c039a738880b727b99e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x70f50f050f8b609f05e762105056661ab9af7e5d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x70f8fb3e05370d46e3e31f0f3781f36494a8d46a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x711256406c2e9072fbaee5b67d5a893f66a3e707.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7157cf5f3f57ee59d74b905175134b8a7763b065.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x716CebADE7c90DA863949036Aee56a1330F1aC69.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x71ca1f90458ce9cb9c444ee26039fc9db590c3d7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x72C1f8e060E269827571011C5aeD4A611b06A593.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7350c18e7acab60bd09a2855b55158db0bc8c00a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x735ba26f91e1275fa4b504649b19ef74739fe7e7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x73bb9ab124f2e90b80ccadd0b9997694fa4f7f47.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x73d0db3a1af5fae63ecec7515af0b13b2fc80e45.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x74364027f6c41f26cf22f7134100c0a9fde3aeb2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x747fe3e7a78ed65a059b4d4cb7adedaac7318050.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x74acdad4de198e3d61ca1a5ba7e958528c2548e8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x754713f7f3eb56b1b2e2b58463603a1f19a4e3e7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x755a34ab61b8e77b23d340d707f65fe1d3af458e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x757f16b6cefc5c8230b45b9f6bf941238abe695c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x762fa5775a8813362b1c9647da0c9aa08d9cb9ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x763e8a6f5eccc6d209f110b1df9b26a4d289c8ce.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x76498f4287b3cc149c36855b7c77ff4f5c394148.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7668223b8aa954fb894b6fe41d9bffcf140c1303.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7691f21f471be902caf543c9f00517b00be6e269.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x76d8afdea71bc1577f1c86c8a83688b6e5a25419.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7772b70b870ac29501276a5fc8b19a375bc4f550.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x77a3bf09ce6236d89cf79b12a2b755b3dbe3a80e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x78Aa5A838C0E41380638E3291867Ac4E97F4D237.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x78a53fe8805989e073f69ea93e3e8ad64effb60c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x78d54b2246f95fe966bdf3e80dd51bd65ab2125b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7Ef4E22bbD101283576DEEE6ca3477DD46171134.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7b00cac9b094f775b7e2009e017c3600f06c944c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7b203459eb87fbf70ca42624b4304dc24ede9c50.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7b51a4011d0d84047d87074dcb19aa1d4710af23.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7b63308d5c70f3d5eb73c697056fe8d527bd0b6a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7bf4a91034131b4de7b371883e2f6d0cfe1b1007.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7c429c2a18e81c14d209f7b041a1757fd7f29d72.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7ccb2b7d0e8455b6be9c39417e5fe855aa831fd8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7cf23ce0be969d60317063c456be2abe4203b5ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7d10c63e0dd522beaf128b4762d1b3a9f6907cdb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7d7d38fd0e5143f3daaf50ed1ece5d23564e9253.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7d9d586f3c07ee97ea772d597b35028937f22f8e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7da9b19c1f281ddb40fa44b96fc61566d65b878e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7ddb323c101ae60d3b359c11736b8e68e9a5143b.sol: no compiler found that matches pragma solidity =0.6.7 >=0.4.0 >=0.5.0;
+contracts_source_code_output\train\0x7edd4379da08a0e4d64c9fb4c04c72a138a66916.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7f0a51cbebc0aef083b9f54ae5fb789de71b23b8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7f3bdd02f3b78975b66578c70f995d638b277bf2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x80c72d42846EFf15Cb1BDEE8FeC9A57594F17960.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x80d19b2bf1743371855732971cec24fe9dcd1417.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x810b54cdb3d8c97d857b500cdfdb5715e1d27837.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8142871ce8e9b69af8b50369fde8f9959d699fa6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8154094af8dc315b31c6ec746260003ee828fd93.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x817D4Ea3b56F6ccfEA97DAfa86336c964f27598c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8194df136b53dba129191e5460cd8c6745d150e9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8227cf5171bfdafad9110775c4dce2cc5897b5dd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x826f503a6164c97b0aa3636eb798a14b96bf1fde.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x827d84b5d901d178b514f62207a024e7783ae33b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x828a6c8a584faae013b7d9e676e0ec7ba2450302.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x82a707e6516feb0e5f336812d0a05033a79fa967.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x82b24156f0223879aaaC2DD0996a25Fe1FF74e1a.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x82b956e22fd4f5901c9bd5cfe4214bb01f6c2d1e.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x82d1223825a26f9d76eede7874e34987f406a566.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x83c27eeff624a5ebf5b897eb7a568d5303757d61.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x83dc8423170e95ee18b770bbdd6b3becb73c9c30.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x846875aa30a3485e357afd07329d3774e85b9a59.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x847c4fe61a62974c19c74b87228290ea43f12e7a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x85352bB3529ED9b4c6731BB2D27aeEA56d876d0d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x85811136e3276920e60a67137b592913fc3cbec0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x85e9e2400e8697bd3f7637bcaa2bca82e4c4677c.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x86e94c9f1dee21fb92448917391186f6f9d79b0b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x876617584678d5B9A6Ef93ebA92b408367D9457C.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x87744f4ad5a7026ccedbe062239d24cddf4465af.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x87aa37bae7c1f3e99e266fccb7890faca08fb036.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x87b895151c931a84a561b81ce0e065a134e0f901.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x87f51bfe3eda61348f6cabe50cd202b7f248f257.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x888184bc8c5fc1ac014effb1f2a5c60831f11ca7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x88dfc02fcb034e7986b12173d0c852934f6c8c01.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x893e861a0615f66475c8151bd4a9c348111b0c5e.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x898b58BafDAc551F596f2fEA8c4aBd7aaD7054Ce.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0x89c6a79918b66612355c0cd63c65ca1e49afa675.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x89ca20f06cd3a7ae947c4dc5294356ad273d4ad9.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x8ADE6eA8C4fcD031138a5F0c9173Dd9926d66322.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8E341534acc586903B930B160e58bc68Bd7Cfbd6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0x8E7627Db25f2e73F9B2dD2CdCd365b17c59901b2.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x8F89A1fE920826cE4EE3e6b61A7bA985849E7097.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8a347485eaa69206eb1a299472eb7495e36448bb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8a619b19e85e264770eb67dbdbcaf0daa9158a6c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8a655cdb00af99d379d5335fc3884e14465219fb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8aba2a7089c6e3e8659e7a0b25dfc826b5553d7e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8b0331536c64f3e9cc3ad509ef4b0bb16df7eee1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8b9d4a796c55a28e65eb276d7ec016f5cd6a4116.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8c57650a2866e5a0405e01bb65f64660e4ffd187.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8cb3a2081962c289036ba5f766681eac616448f8.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x8dec04E31C6Ef645cBB43586f7F0895537d2dfB3.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0x8e01e5a165451f71f10287bf5b89d8942fe8d9d7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8e0d27a63c06713aaea40a57b962de41f0317a1e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8e57c3e73a96e5eef3e7878fad63826bc497a522.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8e79e23c479b6e956907d6311e24ceebd073ddd2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8efafbd731d779390e4f2392315eea42c14e2b69.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x8f742d38dda8ae40f5c842b7d579347ff3e36c13.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9019a0c22336eb54237191dfc25cf095bd361ce3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x905f71f246d54c0a6d78f810069b01892e83478c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9068Dd75b9599915Baa5653f4ae90636E071CB02.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x906ccfcf474b20eb638c94da957a1016cc7974d0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x907240eade494397e0721bb7c4de67bd1205d236.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x90821ce485b81a165b19f30c588fe7f5ef44e149.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x90999db3f07431a89bf97d5ced6c5b67d33fd378.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x90e0ebbb1b77b1bbc31887219f089404355dd43f.sol: no compiler found that matches pragma solidity >=0.5.0 >=0.8.0 >=0.8.0 <0.9.0 >=0.8.10 <0.9.0;
+contracts_source_code_output\train\0x90e1adc31e299602a479f7343cf90b10d7f034db.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x9107a1fb676c55abb2329becd6cdad8d74a27ff1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x911675d9cd965d874ba9c7c014b5da116cba26c9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x911953208022030ad13074d2cb7c14fba4bee80a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x912fa5993a8cf24786bf45063d93a8e91a7a5353.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x91a5cb32d5a8ee437a69e362ed121af275c31adc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9212c65223cc44197600415d01b754a020015bc5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x92185d0a8aD37a4997f4560ca450953e90e3a876.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x921b42741ca9ccc937fa3b734f738961a6b18452.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x92F4f80C9B1bd14bCE5a9c868255547f60B205AC.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.5.15;
+contracts_source_code_output\train\0x92c212f4d6a8ad964acae745e1b45309b470af6e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x933b0e535bb03ad3238ed30f5db286c1675b8fdb.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x9374eaB80f66BAcf44Afb8B9D8E9becC48652FBe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x940bdcb99a0ee5fb008a606778ae87ed9789f257.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9416d782aebd1078dffdf8890eff5379a52706f3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x941b7f6d2f77bf472f491d96d9fdd14c294b892a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x94DF181744EDcAfD69af7e83cDA395a461f47aac.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x951d1df1182b637a2563694c9856B822DF0BE83d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9532014dadb2c980e43fe4665c86c2c0b1b4603d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x95f7f4527cd84b2c8a170d940ce3bc6f1917b5fc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x9699a42fbacbe3c48ba11e519779600abf772029.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x96cd136f1afb1f8934e6cb6495eaf24140f70325.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x97438b2a8D5cea628B8F616CA2E4E895defAcF32.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x9794091c4161ae66aa775af0781379d1823016cf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x97aeb5066e1a590e868b511457beb6fe99d329f5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x980d5e1363821f182b532f9cf21db9d0ae76c6ac.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x987c07c3bbaea77a997918fd62550f880c262279.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x98831e9ca2874f2b6454d0a263d248444ea0705e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x98b8f5d7a5df3530913b1a2f4e5970f41ef8a529.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x98f891bcac163ca1d5b9b817dbb5ebad08dfe099.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9908c86801d4086d5cba2d1b75dfa57997e68812.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x99c885206fd5aec8576417a37283eb7f35633407.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x99dd5cdbb4b27606c582bb38431b67fe9ea99031.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9De3064f49696a25066252C35ede68850EA33BF8.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0x9a4967375f4150760ea9fef2289d5b3cadf1c949.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9ae840651db575b2d7c09a8851a53c22403fae86.sol: no compiler found that matches pragma solidity 0.4 .19;
+contracts_source_code_output\train\0x9afd5b8c6b429d6e254ceadfec560d06a4216f95.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9b0C6299D08fe823f2C0598d97A1141507e4ad86.sol: no compiler found that matches pragma solidity >=0.4.0 >=0.5.0 >=0.6.2 >=0.6.0 <0.7.0 >=0.6.0 <0.8.0 >=0.6.2 <0.7.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0x9b489bb0f92fdd9286eb99efa4bfc8cb5357c1ad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9c118c264bc614c0a676454128c39dcb935413bf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9c5673002d854de18e9f6feb7f9825f88c5bf1e4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9c71ca49bb1b4e75c01ac84bb46fdbf7638a2ca1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9cb820c41045b43965faf4f1dc8bed2a33808f71.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9cf38a7b3677161d9a6539456ef287b966362161.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9dec32eef1b47b7fed40672da40801fee7084c66.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9eb84f6c66870142309c247bf6d66680a931de86.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9ed316840b559b71bfbaeb076c714bb52fa36d07.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9ef6a2dd6288bba41dc287d9e372576c0f501e33.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9f448776336e758d4bd41a320659bfd824115b76.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xA08399989e77B8Ce8Dd68374cC7b4345304b3161.sol: no compiler found that matches pragma solidity >=0.6.12 >=0.7.0;
+contracts_source_code_output\train\0xA143A2C9C28B811c12857df846b0778832EB230B.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xA171F57c90d8363744C7f9f550EEaC7f5D974737.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xA1C16730637445D141d6ee35E31a67993FBe3759.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xA9f3739C1463E8f564967Ecf17BbF0486dEA687d.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\train\0xAD28B102B1fA7D219B40D0A31371f354c0678E6c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xAD6E6594e2E9Cca9326dd80BFFD7BaEf4e2a10F1.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xADc6cfA74Bc2547DE15d7505C1aC1cF7BB4BEF14.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xB15cCB81F633B98845a0F6C91a89483298A41cC3.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\train\0xB168FFE3cF06b71d52254eDB81B581ABD8a899CB.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xBACF47027718Af4954037e8B5545a3F7aDE4F40B.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xBD791314F50c8854866ce4DB764b3031d7a9A68E.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xBb2C5ac27d6c36387c902EA5DAcf2Eb9d95A35B2.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\train\0xC24edCd9581B47BC64102db78807d0FB0C296761.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xC37A80dDE852F3BD281Eb2383B435C053127243d.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\train\0xC38598C02044E87Fa18ac991CE8ac4615B78a16F.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xC55480C8d50a6AE3ced5147FA45579AE0ceCb272.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xCDA97D502459B31e5449E4D585a945dddce4CfEd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xD2E4aD954EE4f42fc2Eb2f74777e25bC96C8F9F8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xD40b2569Db1357475267e770f39E14E921618db3.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xDCb02156a7661c5Fd69252134761351a98845FF6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xE3B2770b698b2a31BFc9FD0B2D527f3A9fCEF397.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xE80C9e9fbaE9868e1D645f9727436afE5381047A.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xE86aD94Ef70d59e17A03Aa40338688094Db03769.sol: no compiler found that matches pragma solidity 0.8.x;
+contracts_source_code_output\train\0xEcc423aB19AFdae990a7afaD0616Bd02E9809495.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xEfe2f75FaAe72E08A7AA8Aa1D9CC644a000A3FD6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xF06c37152ED20D16c7c81f021B831CD59D1c3723.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xF1079CA834758b1082FB94412BbB0C9f024EA7d6.sol: no compiler found that matches pragma solidity =0.5.12 >0.4.13 >=0.4.23 >=0.5.12;
+contracts_source_code_output\train\0xF32bAC8a57f2e7354bb82D05DCEe658A5Db5981a.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xF470fb17508ca92447764E276FB18b74d6E0A20B.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xFc44EC51C80e35A87Bc2140299B1636eC83DFb04.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xFee28E572D6371cD837deC9314173194b86816C3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa01a45394D98a67Be493bCfc62a308847E6EB7fD.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa027348be268a7263c6f9722ef3e2e49ed73e5b8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa04e7224679a372309fd4dc6400beb278e5b70dc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa0508a94848fc6c1bed5597905cd7d2bba4a959a.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xa071fa153805f2db25874c998ebe058df33adcbd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa0a2c789389955a6e65f3e2d26b7bc3d683461d9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa0b9c9ca52539f1d53cb54521863c08e97390006.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa1da2b4ffe1b6ba74ca269e68993f2af9fd7c5c3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa1febe73d8ef9df7f51d8557cb25640a1ecc3e6a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa20db654886ce6976817f15da68a1b707c7a0224.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa210968a35366c4926160594d1b74c1caead8005.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa2164e09b5afb192df47d54c189fcb27a330d952.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa39412c169d15dd1163b0f7d0d28ba696fac4520.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xa3a70c625c5aea18d01b055cdbed0a1da34d4142.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa3b73d058db3fea4ce862884a67e811e1f6d4b9e.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xa46d9d92b7961ce0c90714abb632ac194009de98.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa4c63e8b05df7db85db0ad37f8064f92338a2422.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa4da9d93672642fbdad67e035af920eea9961e67.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa4e49d539c13e92bad2f853559a31b549ad49a5a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa53e7fd6abc0fe9769690af55f19c2b4a13f2bc3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa56e1b6d1f05e638b5d3815a21280494bd6de290.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa5b017164b97ef1adadc6d2ff84031c84edd8e78.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa5df54776ef7e6cfbcb37804146ad8801b83f9a1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa65b74c5218a7210a5908f4b49031a085cbb2c7b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa6b123fcdc975a2d708c29522d15ae84e9ec24e2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa6ba9a68430dc7b21f7b8ab9d23ea3ff0c008b6e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa6c27b7197e7e464f2fdb2291015a8e0ba66b89a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa726dc23052c81821bce1ea1b7a0a5a748015d13.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa7549927eac2004359cf03413a5b1357a812e22e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa75816ffd6A8Bf985f9D0E263a721fb2Ff18Cc26.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa77a38256a0d5eb028d423f0cb7b7d26e88eab6c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa78807ba3bea63a64648d101412d9a980d6fbe93.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa789cb1cd050f9c7b635cace803718d94bdc9de2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa78adefcb5abd2b70853bdeb52c1bcb136e5bbbf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa7b8d2084234e36f0dc0b392b5f551f11b4d8170.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa7e2ff6e44b184bd54ad9282c12d816ee0c57f11.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa7edc2905ae0bbdbe24f24b0962df77dc64348f1.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xa8bc59e1a5ee4f5b7c0cd2b04ef5ef5e56820e07.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa9a773f61e4b8e14d24ee6aef56f8258be09558e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xaC243C01Caae9E14DCe559F0f57D59a5805380Bf.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xaafe056c22144d7c65b7655789800d10a471cebd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xabcd620c17dcd0af1584da32b206c7d97829e9c5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xac08549396c2934694d3cb6d0bc7fe0db2bda154.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xad4f92836103d5957cffe33a83a4f99591a7c844.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xade79d0ac692f71313b2ea553e5cfee3fc78d32a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xae888c9cb9d6a46c993c9d298f710a44063040c9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xaebc4555a1649ddadec16187f584ed3be160cc25.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xaef212ee5db788eda9f6739ac2889f763dd4492b.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xaf707fa6a0d5b2070eca8e03e5838233760c8c2b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xaf9652717778ea97009028212bbe0fd1b1a8743b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb04A29de213411DDb7196eD1327b3B6144893E59.sol: no compiler found that matches pragma solidity =0.5.12 >0.4.13 >=0.4.23 >=0.5.12;
+contracts_source_code_output\train\0xb089c8a62fe5881d63f9b4108fab7d105c996c6b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb098ccd99a15d7b77aefabe96e7dab11b1f9a22a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb0b507f7520e2f0a1f14aa2ea05b911a4a09fe44.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xb19675b9f40628c28504d8aa66d3e6f4e34763de.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb1adea455a87e3660336800e11436ac1eb439fe9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb20a41bb5db7eabdd8b2b79c9be7f3e2a00b2098.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb2E4D124B9894D350dd47D8A934c056e8433D55e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb2c1b890f35dc712ecc909989486dc24746f06c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb2dbc6c306c6d8579d1d4774e5f70c1f0678878a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb2ec70342cd7ac97463372e20cbced46f611164c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb37cc91efb289670a99e46b8b4b8a00e8145295c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb3af8d08975e5c6bc98cb2f8646e54539e2d8f0d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb3b558f664327156e87274155c2921bc8d9b1f18.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb4096fd241fd53a119c5b15b6d9003df51212386.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb41e2608a97a4057b4cf2d485357693034253851.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb42ce9d2a22061b7d5e569753f92edbaa2dad37b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb46ca8ac0aa80928f107c1f4967a74ac5ae061a0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb4d9202d3e743dbd36b40e6083e818d6397ae77e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb4e9b2f09b0446dd5db5fa70d3daa509a2e0e4ba.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.4.24 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xb5208a3754a8592e2e934d4e1e7b985ed3ae78a1.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xb5241eca09b809faacfe82957e234dbb8e086bda.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb53Df9c240a139825b949CBD43753421DbE57a7E.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb570a58b574033899b6d2150996637bc11b65a84.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb661f4576d5e0b622fee6ab041fd5451fe02ba4c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb67c26ff59aa88d76590c42dd48172dcb89dc169.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb67db5315d4b90b35e0b77cf69bc508f21a9ce95.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb69096a89389638518725adfcf279f3f82efa2de.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb6f43025b29196af2dddd69b0a58afba079cd600.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb72fc3f647c9bb4fda13ea2a1ba9b779eb786770.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb76a7e2c78199cd132a692ff79d0a69df0317e8b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb7863264684F84fDc9D0Bf77B1f339EdD19D530E.sol: no compiler found that matches pragma solidity =0.6.7 >=0.4.0 >=0.5.0 >=0.5.0 <0.8.0;
+contracts_source_code_output\train\0xb797e63afa90af26b6bc331d7242b3384441e0d3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb7d15f185755846ae18eccf9fa6e4eb93f758a18.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb7d28e99d7a5ae4994499a322e47a17e874de48b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb83109fe57aD735e747a6F633E5c52fa0572C760.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb835065ab1f006c79e3ffaa689718ca1c1e8ad39.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb8ae78f9aaed352e28399502cb49acef1903eb0f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xb94307c2e2b0f0a7cffcb163ef4bc00f7fedcd1a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbB6f31a1af10f41ce9d16687197971ec37277878.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xba34edcd630a422b44b2d9016afec29b53220134.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xba40f56b536a297139570e0a4c74546dd27fd0f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xba4dbdb36d398586c4de0537e53d47b12ac86c73.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xba794fb8F64Caedba76F592468bdFaE5147a6de0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbab77154f07e8abb1047e4a7c6bde0651aeef1eb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbbef4d4ad428978cee23c42df9ab306ba2c4c9cf.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbc10cdbd98d363bbf1f3e267ead3f969dc918376.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbc498685a1243773f59bf7cc4958b0aee8a67134.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbc7cd2555a564fef855882c82acd773ed5e1a685.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbc8b3d9cac5d59f1d94b527e87319c92488e463e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbcCB3516D0fDE02DC46d9Bf591CF9cb3880D9842.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xbcaa14689f5a53217fb60f40f21f39b08b8b0073.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xbcb86d8cc89ce7559380b6bc582363d2e47a9fdd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbcf1000cae3909842d5d868f21323e15fe14c9a8.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xbd47A652eaDfd50423115C81c0f4B74baE4F3aAE.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xbd6361cc42fd113ed9a9fdbedf7eea27b325a222.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbde40a214709f95b8f7e7026c3512ca4ed183a35.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xbde9dc45403b55654cdc9dc877a428327b196ead.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbe0775533b30f28118d250c83dd8b89f144d0b84.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbe19dc5b97423a01796a23b64e6230fa7a79cf86.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbe36496f1e6bfd74707794a8006f4cb022d41f59.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbea927071df1e32cfb932ecb82d623f04faaf8c0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbf4de56095f9e39d59fd4f54bc63b39f4f0f7afc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbf84099034ddc98ad1703f5df028749cd29c2efd.sol: no compiler found that matches pragma solidity 0.4 .25;
+contracts_source_code_output\train\0xbfb00a32ca5addd84985b43b1e313b9fe44bfe6a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbfef8a116846d0308c8ead7838f1a798bf8d4e42.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc0162583B054369f06d98f312BD5fb84A4b7f1B2.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xc022e75e6B69f5283daE373Fa16cEfBBec027360.sol: no compiler found that matches pragma solidity >=0.5.0 >=0.8.0 >=0.8.0 <0.9.0 >=0.8.10 <0.9.0;
+contracts_source_code_output\train\0xc038af930801d55823d09977e9bf729cf458e8af.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc051e134d34bafeaef6006d5996f754533ce4488.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc0880d95d857c202a037452bd9a4b6d31fa08302.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc122a92183b6c1d3e04612fec5e401d9971bed49.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc13677557b9c8935af42101a06eb494f84a39845.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc15acca7f2ea0f13daceaaaeb8a55a98c52a4fe9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc1aab4f3faa6a7c59e000c9472e8586258d04872.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc23cd572377c66b88613af0a6da4156b226f4ca7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc264d8f416ab57037320cd793044cf9b797664f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc2c21f8f6be23e376782f4e5a4a07cbab5f21027.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc2ccf318745793faa2b6478481ea60dbb74a1006.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc3350872e5d01cd851cfce661fd0f218c9786bec.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xc370a27efd13391841ba09d9516a6c5ce026c22a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc3eeddc0a250aef2382ea2b41c9121929345bbb7.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xc5Ed356eadd9863eF78F74155fa4bEE1fc4ad879.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xc5dc0b7a649e9d9223ab44e4aa911b880d72b5e2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc60ec6d02536111093d4c783048dcea6cfce3403.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc6171d7aaffd8aa495e295f1aa04c651ad7bc650.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc6396aaa2c9ffe8bb22d4810493e27f463f2fcf8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc6563b56302896dd5de0b6c083e230baf8b11922.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc6d0ee710f619d8c6ef97ad9a830455b89774eb3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc725e52e55929366dfdf86ac4857ae272e8bf13d.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.5.10 >=0.5.10 <0.6.0;
+contracts_source_code_output\train\0xc732a299684726a9feb2a72ff29f1af785940747.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xc7411015d40d79324a8f2723496aa7c5045f9f7a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc7787c3b001284d712d86d60e247ab7bb25806c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc7c03b8a3fc5719066e185ea616e87b88eba44a3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc7f39fe227f862981dd20588641b68ab31342bd4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc8708308667ecb28f3ecadc76fc281d615c1e2d7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc8936e6418cc1f53b7f79e59c0db33219336a35d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc8b34e97773ffaca00c06298d9e2233ad56dff93.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc8ecbe1cf67edba355a4b5eea7b1e1414239e205.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc9746af16e5d5cc414edf53f91cba76e6eaf739d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc9a6fbcb2541ecb37ed0d67c36d3e7b54a0a09ca.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xca6944c9d06e9a5c1e758c3b82a8b5b4ad60a4a6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xca7c4a117baef1b7a122d55ede7216ba6631ac3e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcae206ea56a7d78b8570d69d6a7467164fc17612.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcaf65dda5c84906c172956e59da19685302d8e15.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcb20ac704d707b1aec2075e7716e4cb76c0dd07b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcb631c6f9a968e3858da70a15e380b7965edfd84.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcb6c15c01232c679f3362b07eb958e91a617da36.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xcbecd4d8c8ef80377f019addb8f071e9b034303c.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xcc489bde678096002a0246bccbc01f18eb841531.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xcc6dc0205126aa840723f22cc266415920e21c5c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xccf53f59fb03eee2eec59308e730dbcb9e7027f0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xccf75a0e9324ab74cdfeda7040cf845a13af415c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcd30d8faa4a84dbb0f22a33c913e82fd922e306c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcd582662a13d89eb9a8a458e452ae691be379c14.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcdac5ccd316f3d5b4d4e64dfff12d07e047d83bd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcde241aa5c67787c27bae832760d9ce9afe55c17.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xce156012cf03684b66c5ddf9471b458e40c07d68.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xce958ecf2c752c74973e89674faa30404b15a498.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xce9a5619b3bfb2c11cdffcc15843eab11f6c8280.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcef76ac06ee4dfaca24feaf000cd44cf43f30ce0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcf2450b25b52406bdab999fe7816079f7fd88cd3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcf550e5e94a340f334504d2b2e09febf72d68bd6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd0eb9dd65057d20aef709759cefb97ac0f3379b9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd161bdff491790d5e02b487f2346feb07b3e7054.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xd1825b141a7e8c4df6f4b4813239700db17bc083.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd1876a2432f7b93e62e774bdc213c3fad12448b3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd18e454d844eb0009d32e07a0cde89e18d64cfb4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd1dd7029d01a0a0966cc0e18acfe6f9be900d759.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd1ed0950c536ff0421a9183baff6982f2165892a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd22769058252671fe7a12509c25c324f1bc1a590.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd26c01032e047fc9d9cd326de23344d6b8568a3f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd32a0a8926c9fa192c315d45f722e0fd4049ca4f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd373f64afe4f38f2c02d602b3f19109c1a496a25.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd3c751aed3e0b6fef180bca7a98893c976df1665.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd3eB623707a3e54B5ebAcaCf317EF596C90167d0.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xd4e79d828795925a6f4a2fb67e6145b2c1be42b9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd55362749f7270576f8a0fde81473d6d9677e864.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd61E8D3Af157e70C175831C80BF331A16dC2442A.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.0 <0.8.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0xd6a8a881ef6d068e4327e163e3f3700f73fccb5a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd6bd97a26232ba02172ff86b055d5d7be789335b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd6bdf0407924a433a8d449b9bb9d51b70ac29f44.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd7054d07e2bd5f0ed91dbd8d44f8a10a56afe355.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd721b7C1f3352a68c59bA6CdD339559493DF7Fd8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd73acd82777ba89cc4d191ba44198d34625b036f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd7b34171b95275360299d5de13bb937a434d83d6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd86f33388bf0bfdf0ccb1ecb4a48a1579504dc0a.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd883d21af976ec9fa409c9f2944a1e7d03d21946.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd8acacc58568169049ed2d357bee4e1f7ca74969.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd8e3c85deb0f46423418b22813b9c751cccea1dd.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd97ea6dd7858599e61ac06f1b1af52949f2e9a76.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd9Cec614db2b5A7490dF2462A4621D96bCD4bfE2.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xda1f92867d5ac4ea20bb9127987e71ac178e7a82.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdb0d1af4531f59e4e7efa4ec0acadec7518d42b6.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xdbe20a4d441e1b24f44c83b0a3a9a4eedf8a9370.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdc91c69f951031a87fceb8961ec92d0ab89b8419.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdc9ae0738de511c377310f35e1b4a1c9bdbd3713.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdcd52f8227175849f9468c8124d88e527f031fb8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdd89da72119799b6faf621cde0aa697ee6353cb1.sol: no compiler found that matches pragma solidity 0.4 .19;
+contracts_source_code_output\train\0xddbce8e03a1af22246d3fca0b5d4cbb6f9a5ba62.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xddcc84d7096660ef01540967812b2388e363c1dc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xde07d85cc784985c36e40a205790ebc94dea2917.sol: no compiler found that matches pragma solidity 0.4 .19;
+contracts_source_code_output\train\0xde77069a0f63952a8330c6ee7756d0b0cb36866a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xde8be787dde0ff2b9bb7c4e1a27a04714db000c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdf0041891bda1f911c4243f328f7cf61b37f965b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdf2efe5338934ffe4443cde678822d6f3f696196.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdfd38ce13b328b5481a7ec42d877c753959abc02.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xdfd88392960a82bf1d28404fff5890e6f23cba07.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe05e1a4e66c13f726a4cece661679cfbbb7f5d2f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe063492f3d2f23ebb588c379c39fa077a459dd92.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0xe0943059e477e62d8b8e1841c58fd5f703e56dee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe0c0f5ce4e746eaa048ae5db5c61b6b1ef3b56ed.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe0d8d531709cc5774c12f02c67f7f2a244d6b577.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe0dDc558eB8d642453bd2A0CB31F01981550287A.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe0f887aa435bcce11ba3836feaa82a05f860898e.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xe13e62970687ce1e85adcd8eeb8bb9f2a5d7b566.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe1578B4a32Eaefcd563a9E6d0dc02a4213f673B7.sol: no compiler found that matches pragma solidity >=0.4.0 >=0.6.0 <0.7.0 >=0.6.0 <0.8.0 >=0.6.2 <0.7.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0xe1bb4da92314c41349a77755cc2cf140c2511fe2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe32d4b844e45150911d85613c93b33910ec615a5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe335400d7b046587989e47bd85ae1e43abadd453.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xe339d6F5a42E581Dce5A479FCa0eD02248a6dCa4.sol: no compiler found that matches pragma solidity =0.8.10 >=0.6.0 >=0.8.0 >=0.6.0 <0.9.0 >=0.8.0 <0.9.0;
+contracts_source_code_output\train\0xe3a9137b741187b48ff8a32c0733dccaa92c353c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe3c2130530d77418b3e367fe162808887526e74d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe3dfd76a146d8df416e497369ee439b3a2c71491.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe459671b05c67fe0a36301df97febdaa0f032d48.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe4a77327503851e1afc3871b3c4b1e6762662477.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe4ad7215421cb0c0e44fef1460f841f088c85435.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe50afd8ff67cf109c47da0587fbf87090ac8c5d8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe5a9db2978818b45b01becd9c8e03f46805cf896.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe5b69f5b8ec10ec7a33ecaaebaf50652cc94e802.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe624fb0c2666c393083acf34cb35c10b37a83ba5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe66036b1b1119c3bc463c0fb829baaea3c74d22f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe78e6e9f60006c858fad070467827b21ed371b9d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe7b1e0f9ecd231ef3a466a74a4e8e42a323b229c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe7b704652787ff7654b9975ea99c3d1ca04bcf42.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe8ccbd4d058bd37e5bbd7482d8718c8a7678e935.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe8d0d15bcae323463eaff8f7366cab9b1082dbe6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe8dd173453d5a14c6f7ff7172444df3189ac856d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe91df2bb9bccd18c45f01843cab88768d64f2d32.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xe9Eaf8054476F73782B408b4F20CDfA277390817.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xeA42ca879e46e905cd9fcF64BbdfC57D5BBcd005.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeCc564B98f3F50567C3ED0C1E784CbA4f97C6BcD.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12 >=0.6.0 <0.8.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0xea13e4c90d54d77dbe1ee01bea2987540edf0e84.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xea7a49583c897676adbb8979c05cba851e6d7742.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeaaeb8d3ea9e5e9ef389f68eb52cf7df6db0b472.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeac834c498240e46d5c8e8e70d2a18bcaa0f2bed.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeaf64ac118e5cc975360f0719b614fb697e09796.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeb303e364be9e54f7ed9b934595b4ab850ee0e74.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeb830b9d626a7f7eafa0152b4200d553b404520c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xebc14ee2638cdfd141e51125a8fa304d79257132.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xec80e62211ab9ba26e33d95033af8968cdef2464.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xed0d4d213958c33617c250bf6c7a0a0e000b2b23.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xed7a7e0b21bc051da56db8c0c9a75ddd4db827dc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xed8bc78af9aa87b7173076dd2e6745e99613c4b6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xedb41d07306a43519045a2f5ac336a9bab7036a0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xedd0ddb140c98d804066aeb168c89187e6cd34e3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xedff2e8e551b8755f04c3484a542b48e86616207.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xee76c598D111F58d93EE77D78aEDa12DaBa8e768.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeec1e1aef39309998d14615a177d989f37342cf1.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xeecf13a4faab0b91572c91871f0aca9fe25664a1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xef4bab74663f218b3ccce1ce7fe2da427b392c61.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xeff6840401d2F1104b70953aDC300c4F39C7Eb40.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xf02bD1eDBbC076c95C9aB18747D8f0c2d0365d58.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xf0d62783ba600eA999AbcB9018A54c21B1BF6f39.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xf14d3f97dccd5f43fcf45797eeb797a6aa0672a3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf1b8a9f8436800499db8186f2da2fb3e78ff7c2b.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.4.24 <0.8.0 >=0.6.2 <0.8.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf1d2a55456b32f18b78bb32611a625b3c26ccd43.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf1d9f877077183c80267d3b28e46b72d3c406e89.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xf2064b7623ab5a7c6c4c3e726007c8355c59788f.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf2325749C420ee45A91aa5B8592F623219c00047.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf234778f148a0bB483cC1508a5f7c3C5E445596E.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xf24D21CD9298107ccc9527f32D71e6281548Ab32.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf26094C3d4B9C12360cDfF1eB9f937780B0A0c8f.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xf281bad74a5a549ceced85dad57f47a671b07e51.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf3044b6654113c92bfebe70cec18e6d482524468.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf39892a591a74a855a33d565e352354a313b0653.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf39ea7813c8a4c4aefb6fda26ca3adec73711663.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf462868cbdf4767bf8a3aeaeafb106be2f7faec6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf47be42378e952b19cfb5168a13a5fe74efe39f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf4C755C780924F15023D0e58Fdc3C52298a93765.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf4b54874cd8a6c863e3a904c18fda964661ec363.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf4e06c5f4b14ef5896e30bf405914eefc0b80728.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf50a73324a8b96bbe6c945c9d100b32b9e2bf23b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf514fa113DEC33d9c475C96D4cc59C3312EAc542.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf523352c33aaa0df98ab1d33773751688f5fc913.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf532fd8a0c064bbd519cd528e745285c5bc4bf02.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf574e8610b8932da98186b38c54d9e6c393e1429.sol: no compiler found that matches pragma solidity 0.4 .25;
+contracts_source_code_output\train\0xf5786de1bb019c9d1cc889501d904e405171add6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf5cd104d4c139af948be527a88369591a79b90b5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf5ce566843abc2c673e23f08a219c2f377c914eb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf600c8faf89504850e26bcb8c03d04fa5b00ac8f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf64419de962b9e647204b8689e103dee6e63b5b3.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf6aeac4e30c12eb3a69de72d089c07eaa380b3a0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf6cf47a4b678603a55b4f29f58873e980f6de712.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf6f71504aa757bd12a1d4c41c0e948226c918783.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf6fe9235fdf1b68fbd6fe406a57befa4a93debc3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf70ccbbb3519eb2bf1d875bc96c9f4d6b8766d83.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf772464393ac87a1b7c628bf79090e014d931a23.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf79ae82dccb71ca3042485c85588a3e0c395d55b.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf856e784b2083dd77f3caa4613896922f6e1ecff.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf864f92e88054aa05639324090b411c1d55b4a5b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf8aa1c75ebdb2aa3172d5365df854dc09717ceb4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf8dcf64b0117d2ba3e58c6ddc365e72d01c9f14d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf92b0916d938ec57dea03de4806846eee7c0cabe.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf92cca68111a65d73f694aaf1fa7c72f0c061e44.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf974c2e9cf2eb44c5058b544c43d2bcdbf3813ef.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf9791c0d415cea2a0513007f26a36cf3a009dec3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xf985fd6550e23d8a7f90696b3cc2967415958ab5.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xf9edeb9d50b3cf7014c98e9215100929eed1ace4.sol: no compiler found that matches pragma solidity 0.8.*;
+contracts_source_code_output\train\0xfBE888d99D06422917dA1F0c8DEa755B57d80e83.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xfBFE4779056b8C8493EECA7FfeA78f295a48635E.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.5.15;
+contracts_source_code_output\train\0xfa6f7881e52fdf912c4a285d78a3141b089ce859.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfa96361dcd49dbb650f75e25252f95a4557ebb87.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfad4463c17222f540b65a4f8c9b5c7b88f4eea6e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfbf3ec99affa701913084021c65dc0c0695ff6e3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfc0bb9b26758469348d573c4e64c31edcf6ee3e8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfc14bd77c17e37642b01663e41de134b2e4fb825.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfc78ced849ea6e728b7a4173bc07304c936c8dcd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfc7d60b31937edb9f2fd1f0f00f3bb2021cab386.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfd21BAEFe8F2D10cF7d16562203b4ed89fB3BFAF.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xfd45e61e085b3e7a1990a47828d757755b206eee.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfe2a80103c9037354a04094972fc7ecab747272b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfe4af0f0c87b29b6d68b78d5030ebe1a9e4568ed.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xfea67002dc737f6466bd8518af7179b005e59681.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xff5c95a5cfeb6312c0139e99026b0c580c0d9277.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xffA0c3f81C4312fcf86144d13dbb5D0091F23075.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xffb3770dea9d09cfead9ed573e4e3a693516766c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x01d9f4d104668cdc0b6d13c45dff5e15d58d8f28.sol: no compiler found that matches pragma solidity 0.4.10;
+contracts_source_code_output\validation\0x039963c07e62eb7af39eeeb871cb2de9cbc65d78.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x052820B9259a9ae4b471945f973Ecf8d52ecD583.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x0e244e93445c2e33c208d9aee8bd99b999bBfAA2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x140bfbfbd96f46b69a85135f1c1a69d081ac1f21.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x14c926f2290044b647e1bf2072e67b495eff1905.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x15266c5ba00bb6515101d0828687a3c8fd1850c8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x17ab39215f0e75406e5b726acffb598182de6ca9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x17e65b46ad1ebfb8f9cacde8e274b377831a1253.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x18a583e7a535ab8623f03ed2a853a7f9d8d4f1c4.sol: no compiler found that matches pragma solidity 0.4.10;
+contracts_source_code_output\validation\0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x1fc186bcc4c866456b1b801b4f0490abd16f9199.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x20800cc7851dad1121351eb15e035f7f78b0d793.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x22d2b881db8650234becc98048987f9f012849d5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x240b72cf12ff58f8841f034d061a7c736fba90b3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x24d2918885bdbca28570bcf8deca97d93df77968.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x29305d0b0b7046a0b6c2381bc33f771dd8ad13f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x2fa24549002d507a0490ea0d04e5f23b8043c2b0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3110694ec930249738083266b22ca4c6f7d0b270.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x326923c142e4a75316b091cfd7d292eeffcf20a6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3559ffe4ad79d4627b1e404706574aa44705d26b.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3659f2139005536e5edaf785e89db04ac4bf5987.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3D454AcEA6EbBaA4A344F7E0EA0e28B47417Ee62.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3F5BDFD2c67b73754b150d20Be28Ef05c3Bf7259.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x3bdd97c821a56b45b1450681dbca2687ca661cfa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x400c73395bbc01d9e757f02f267925e1de0779f8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x42839cf89def7cc156c6065877967ed670f0717c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x49a7ff6980c54fbfc642c85717fb0982e29263da.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x4d178459f03fdf941edb12bd318c9a924f6eb151.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x4de25f080e02e8b3fdd450f0b2b9ed22c7e6cf0a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x4e297fcc055abce9c582f9c563973c501d0b8457.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x54bae34522d03dd70041c646037d62719e77529e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x554bc53533876fc501b230274f47598cbd435b5e.sol: no compiler found that matches pragma solidity 0.4.10;
+contracts_source_code_output\validation\0x5660d118122eBF4a5B6B233735e203CA46fF92c2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x567310f5dd520c1f77c37bbfc9c6a479ee04394c.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x59188db207d7a173a4e56400b0f880dd5ac34f60.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x5ba5c0c92a79e13f75a69f725b136e20f2dca90a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x5c890018da29bc2383e40618806f2ec7eb11bece.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x606af0bd4501855914b50e2672c5926b896737ef.sol: no compiler found that matches pragma solidity 0.4.10;
+contracts_source_code_output\validation\0x61eb2155714b877e95bfb27be10724075c113fe6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x651a2767867c286c08d39f415b3eb46f66de4010.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x671ea626229f829eb711ffa141734d211beb66a7.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\validation\0x6dAd7295ed08c1B639197022b329BC2bce0bec76.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x6e1d072580bec48df5cf07aa2091b327af2a1f42.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x6e44e4ee28aa26cfeffaccaceaf618ca5a81baff.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x750c0aa82350a6dda8b29e9dd65943d32d642116.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x7Da6fE01255f7989c4F7FF7B8Be8B86A494e44DF.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x7a80a6b0bafebcb6cb89a847d5ffa643b2f66c65.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x7ad38d200cffa2b1606931c104cde833872ebb7f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x7e47c04a41a78f355c33a94cd3889e4551121ae1.sol: no compiler found that matches pragma solidity =0.5.12 >0.4.13 >=0.4.23 >=0.5.12;
+contracts_source_code_output\validation\0x845e8a9ecd2a662808377d8ddafebb7ae7c208a7.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\validation\0x84f7c44b6fed1080f647e354d552595be2cc602f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x85f8c84b0f7a212b23b5586889ec3152aff5cc99.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x86b1d72c705d54cebb6b55c7684c149eec1437da.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8a976bd6dfec2356629321fb4d0ab82d67d9e3fc.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8ad040d8922b771caeb4dc3370e77e71ea15c0c8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8c32f8d0edb496326de8d3adf46f622a744b86fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8dbdbcda77cd255e8bd79ad53f1f018fd698f289.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8e702de2df416ee4a3c7e2d05c7d653482125d87.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8f4a025372e3bfe4867d56ce243ade9232cf0fad.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x8f9e6171a05c48bff57004c0b218b2103aebb2bd.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x9303b501e06aded924b038278ec70fe115260e28.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x937FB520bD401c1061dC541987dC0C3528C1E908.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.7.6;
+contracts_source_code_output\validation\0x93bb0df4bf901e44e4c998543cd7284015694923.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\validation\0x96f6cd23fd450d30a12ea0d14fcecc8ae8b4bc25.sol: no compiler found that matches pragma solidity =0.5.12 >0.4.13 >=0.4.23 >=0.5.12;
+contracts_source_code_output\validation\0x99bc08db67f52010f2d6017b7ad968808113db10.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x99f4104611a904f50120e62da5f2e7981a1cf9fe.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x9bbe757c23200c822828da3130c7e8e3a1818c30.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0x9cf67d1b360c2ce6b351d99d55d291d966736fda.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xB59BCAA1f8CE2Dd71574518E361D9F57D6033C06.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xC45c1419DA490880b4cf4e840e14D62827969B3f.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\validation\0xEdA1F355c9092aC5A57df2ab5084EF00D02d40BA.sol: no compiler found that matches pragma solidity >=0.5.0 >=0.8.0 >=0.8.0 <0.9.0 >=0.8.10 <0.9.0;
+contracts_source_code_output\validation\0xa014d79de77e8cd0cf743adba16fc20f13c0d41a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xa8008f2efcecb8d7cf7ac8e5e02e8ed12ac090d1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xacddb6f4b093f93d16bf173840dd0660efb87d07.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb33ad2acedea7d698b987e0d8195c4df3f6629e8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb3a80bd0cb863fc3049c9ee182ec1a284399cb6a.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb3bc4549dbb5d02fa2d78d4dab1ae8281ff93ea0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb5459abfc78dd262cf0fb7a452dba21a13b763a4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb5f55a2cd2a07c90c1d428dd24859690418adb47.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb6c6920327b33f8eec26786c7462c5f4098d47e3.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xb714f66892dddf4a5567c279841dcd149e1798f1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xbe1E6eF049B15BC77bb796BaBEcBeeA2707770D7.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\validation\0xc244d24a3293150709913ce8377dc2854a3ec4a1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xc2a801f8d32e33fc74bd45dab2ba38690061d121.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xc44d38e90f4adf384f2af84e0f920dab62535d02.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xc6a52d489d76f05038d26604dcce5c4834fa27e7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xcabf1ac7cf68d7ff0b77f2a503774d18d6a26768.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xd082e9e4f9b39bad6103c330292a7b219bf3b740.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xd481034c556937765b1f2594da8252595bcf2ace.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xd64efe9e7615dafdff555381274766de4d7b0cd8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xd792eb5d6ba2c4e30c9c1e3f126e28d7a79e1262.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xd8a63a824e21dd8493c8a8f62b0f00d877b982f6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xdcf1dcd6647735f82d66e1f55f3046c7f29542f1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xdfe6a14a9b970f9c5624df584ed55ff61712add9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xe2ff99d71555b62271f74b062d1e2928c4d27b1e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xe4f1905cf68568ad8949d945dcae4d20890c93aa.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xeb47edc0587ed7cae9ca3593244bc42be1dedcab.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xec0d547076f9493c7529b325ad5a73406d4549e6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xeddbc58afbd53a7e611526ecc99855c8d3746dd1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xee985cd020172768efd7433d358100edb70d389f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf33d9d6d8ebd81667a331193758d54d13d508013.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf3d7b38ac149160034fb550e82001e635db36435.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf42d496cffd4f4a00c64e3320375c34bb82bb4e5.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf6a0c79da5753e976ff3a6fb49fcd476f0bbc98f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf6c5e68c02aa801a2713a3ac4ce3e668b95be534.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xf6d4633e2799c3d48ffd93afebeb1c53d8fef0d2.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\validation\0xf892c5d59ddbaa49c371d479d52d921bb6c5f682.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\validation\0xfe3c12d746a4b1bc2952bff2e5eb6c9e91f68e5a.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\validation\0xfea0e593fc0422ad4662b00aa7bf0cb0e7334205.sol: no pragma, cannot determine solc version
+contracts_source_code_output\validation\0xff23f545aeebebc3ad4d4905ddc5092167ca40c9.sol: no pragma, cannot determine solc version
+[2025-06-14 11:23:25] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\train\0x075cC274ed5Dd385Dd996f996b1D45e6889107C1.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x09de7e9932926d98298d1ecf50015bbeb9089678.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x12fcd6463e66974cf7bbc24ffc4d40d6be458283.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x158813d43fA4d02443A2d783F2a3ED0E2bB42a09.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1a64f4b6ac7339468b24789e560c9eb1f9a82cf6.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x1bfd8b5bc03f18324ca9d59252927132403a88c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x3276c0707c0fdac213cac54e5b805664aae403d9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x35091621797cfdb1728de26057fe3b4a0cbf636d.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x488fb41f8d05453d9b9a07dfcb559f5461b8734f.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x5dc4538ce872684d0cfc178a573767d157c7ddf4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x61a8bd67e7efafa01d97223a25a0ea81a91b91fb.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x66e856506352fd8c651da6bc8e109f273d9f08c4.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x6d59a0c847ae54e5d58cc24fa1de972cae3e1d68.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x71ca1f90458ce9cb9c444ee26039fc9db590c3d7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x72C1f8e060E269827571011C5aeD4A611b06A593.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x73bb9ab124f2e90b80ccadd0b9997694fa4f7f47.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7b51a4011d0d84047d87074dcb19aa1d4710af23.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x7da9b19c1f281ddb40fa44b96fc61566d65b878e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x8cb3a2081962c289036ba5f766681eac616448f8.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x8e79e23c479b6e956907d6311e24ceebd073ddd2.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x906ccfcf474b20eb638c94da957a1016cc7974d0.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x9908c86801d4086d5cba2d1b75dfa57997e68812.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0x99dd5cdbb4b27606c582bb38431b67fe9ea99031.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xDCb02156a7661c5Fd69252134761351a98845FF6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xa027348be268a7263c6f9722ef3e2e49ed73e5b8.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xa7549927eac2004359cf03413a5b1357a812e22e.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbc498685a1243773f59bf7cc4958b0aee8a67134.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xbe36496f1e6bfd74707794a8006f4cb022d41f59.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc15acca7f2ea0f13daceaaaeb8a55a98c52a4fe9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xc7787c3b001284d712d86d60e247ab7bb25806c7.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xcc489bde678096002a0246bccbc01f18eb841531.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xce9a5619b3bfb2c11cdffcc15843eab11f6c8280.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd0eb9dd65057d20aef709759cefb97ac0f3379b9.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd3c751aed3e0b6fef180bca7a98893c976df1665.sol: no pragma, cannot determine solc version
+contracts_source_code_output\train\0xd8e3c85deb0f46423418b22813b9c751cccea1dd.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xf8aa1c75ebdb2aa3172d5365df854dc09717ceb4.sol: no pragma, cannot determine solc version
+[2025-06-14 11:26:14] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\train\0x8cb3a2081962c289036ba5f766681eac616448f8.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xDCb02156a7661c5Fd69252134761351a98845FF6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xcc489bde678096002a0246bccbc01f18eb841531.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd8e3c85deb0f46423418b22813b9c751cccea1dd.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+[2025-06-14 11:29:54] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\train\0x8cb3a2081962c289036ba5f766681eac616448f8.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xDCb02156a7661c5Fd69252134761351a98845FF6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xcc489bde678096002a0246bccbc01f18eb841531.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd8e3c85deb0f46423418b22813b9c751cccea1dd.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+[2025-06-14 11:30:59] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\train\0x8cb3a2081962c289036ba5f766681eac616448f8.sol: no compiler found that matches pragma solidity 0.5.11 - 0.6.4;
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xDCb02156a7661c5Fd69252134761351a98845FF6.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12;
+contracts_source_code_output\train\0xcc489bde678096002a0246bccbc01f18eb841531.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd8e3c85deb0f46423418b22813b9c751cccea1dd.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+[2025-06-15 08:43:11] [ERROR] Analysis failed: Docker: checking for image smartbugs/confuzzius:4315fb7 failed.
+Docker: Cannot connect to service. Is it installed and running?
+[2025-06-20 17:13:37] [ERROR] Analysis failed: Docker: checking for image smartbugs/confuzzius:4315fb7 failed.
+Docker: Cannot connect to service. Is it installed and running?
+[2025-06-20 18:32:00] [ERROR] Analysis failed: Docker: checking for image smartbugs/confuzzius:4315fb7 failed.
+Docker: Cannot connect to service. Is it installed and running?
