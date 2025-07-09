@@ -4,6 +4,9 @@ cd C:\Users\mf23-4\Desktop\Smartbugs
 venv\Scripts\activate
 py .\smartbugs_test_on_cobra_dataset.py
 
+OR
+
+py .\1L4H_batch_test_byteCode.py
 
 
 

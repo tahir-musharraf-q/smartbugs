@@ -19,7 +19,7 @@ def filter_files_with_pragma(file_list):
 
 # Filter .sol files in your target folders
 import glob
-all_files = glob.glob("contracts_source_code_output_old/**/*.sol", recursive=True)
+all_files = glob.glob("contracts_source_code_output/**/*.sol", recursive=True)
 filtered_files = filter_files_with_pragma(all_files)
 
 

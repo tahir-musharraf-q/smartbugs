@@ -5,7 +5,7 @@ import glob
 whitelist_file = "cobra_testset.txt"
 
 # Base folder
-base_dir = "contracts_source_code_output"
+base_dir = "contracts_source_code_output_old"
 splits = ["train", "test", "validation"]
 
 # Read allowed contract names from txt file

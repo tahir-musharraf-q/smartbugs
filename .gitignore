@@ -22,3 +22,4 @@ results/*.*
 
 # Ignore folder name contracts_source_code_output
 contracts_source_code_output/
+contracts_source_code_output_old/
