@@ -1,0 +1,21 @@
+[2025-07-09 23:30:41] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\test\0xad8ba53d44467cc2bf6ab0fb581af3fc1f950147.sol: no compiler found that matches pragma solidity 0.4 .25;
+contracts_source_code_output\train\0x64e213e947d142e3fca296c95984b0621bc827f9.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0x94DF181744EDcAfD69af7e83cDA395a461f47aac.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0x961Ae24a1Ceba861D1FDf723794f6024Dc5485Cf.sol: no compiler found that matches pragma solidity >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0x9b0C6299D08fe823f2C0598d97A1141507e4ad86.sol: no compiler found that matches pragma solidity >=0.4.0 >=0.5.0 >=0.6.2 >=0.6.0 <0.7.0 >=0.6.0 <0.8.0 >=0.6.2 <0.7.0 >=0.6.2 <0.8.0;
+contracts_source_code_output\train\0xAD6E6594e2E9Cca9326dd80BFFD7BaEf4e2a10F1.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xE80C9e9fbaE9868e1D645f9727436afE5381047A.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.12 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xbde40a214709f95b8f7e7026c3512ca4ed183a35.sol: no compiler found that matches pragma solidity >=0.1.1 <0.8.9;
+contracts_source_code_output\train\0xd373f64afe4f38f2c02d602b3f19109c1a496a25.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xd3eB623707a3e54B5ebAcaCf317EF596C90167d0.sol: no compiler found that matches pragma solidity >=0.5.15 >=0.6.0 <0.8.0 >=0.7.0 <0.8.0;
+contracts_source_code_output\train\0xd86f33388bf0bfdf0ccb1ecb4a48a1579504dc0a.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xe0f887aa435bcce11ba3836feaa82a05f860898e.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+contracts_source_code_output\train\0xe339d6F5a42E581Dce5A479FCa0eD02248a6dCa4.sol: no compiler found that matches pragma solidity =0.8.10 >=0.6.0 >=0.8.0 >=0.6.0 <0.9.0 >=0.8.0 <0.9.0;
+contracts_source_code_output\train\0xeec1e1aef39309998d14615a177d989f37342cf1.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\train\0xeff6840401d2F1104b70953aDC300c4F39C7Eb40.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
+contracts_source_code_output\validation\0xEdA1F355c9092aC5A57df2ab5084EF00D02d40BA.sol: no compiler found that matches pragma solidity >=0.5.0 >=0.8.0 >=0.8.0 <0.9.0 >=0.8.10 <0.9.0;
+contracts_source_code_output\validation\0xf6d4633e2799c3d48ffd93afebeb1c53d8fef0d2.sol: no compiler found that matches pragma solidity >=0.4.23 >=0.6.0 <0.7.0 >=0.6.2 <0.7.0 >=0.6.7 <0.7.0;
+[2025-07-09 23:52:10] [ERROR] Analysis failed: Error(s) while collecting tasks:
+contracts_source_code_output\train\0xAD6E6594e2E9Cca9326dd80BFFD7BaEf4e2a10F1.sol: no compiler found that matches pragma solidity >0.4.13 >=0.4.23 >=0.5.0 <0.6.0 >=0.5.7 <0.6.0;
+contracts_source_code_output\train\0xeec1e1aef39309998d14615a177d989f37342cf1.sol: no compiler found that matches pragma solidity =0.6.12 >=0.5.12 >=0.6.12 <0.7.0;
